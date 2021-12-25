@@ -21,5 +21,4 @@ pip install -r requirements.txt
 TUTORIAL https://github.com/yoosoobin/NER/blob/master/ner_train.ipynb
 
 ## OUTPUT (DEMO)
-
-
+<img src='https://github.com/yoosoobin/NER/blob/master/picture/kcbert_output1.gif?raw=true'></img>
