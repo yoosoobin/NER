@@ -1,7 +1,13 @@
 # KOBERT & KCBERT NER
 
 ## Description
-KOBERT와 KCBERT를 활용한 한국어 개체명 인식 (기업명:ORG TAG만 추출하기)
+<p align = 'center'>
+  <b>✨KOBERT와 KCBERT를 활용한 한국어 개체명 인식 (기업명:ORG TAG만 추출하기)</b>
+</p>
+
+
+
+
 
 **참고 깃허브** :
 - <a href='https://github.com/eagle705/pytorch-bert-crf-ner'>KOBERT</a>
